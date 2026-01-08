@@ -1,0 +1,504 @@
+{
+  "holidays": [
+    {
+      "id": 1,
+      "name": "Tết Dương lịch",
+      "date": "2026-01-01",
+      "type": "official",
+      "isOffDay": true,
+      "description": "Ngày đầu năm mới theo lịch Dương"
+    },
+    {
+      "id": 2,
+      "name": "Tết Nguyên Đán",
+      "date": "2026-01-29",
+      "lunarDate": "01/01",
+      "type": "official",
+      "isOffDay": true,
+      "offDays": 7,
+      "description": "Tết Âm lịch - Lễ hội truyền thống quan trọng nhất của người Việt Nam"
+    },
+    {
+      "id": 3,
+      "name": "Mùng 2 Tết",
+      "date": "2026-01-30",
+      "lunarDate": "02/01",
+      "type": "official",
+      "isOffDay": true,
+      "description": "Ngày thứ hai Tết Nguyên Đán"
+    },
+    {
+      "id": 4,
+      "name": "Mùng 3 Tết",
+      "date": "2026-01-31",
+      "lunarDate": "03/01",
+      "type": "official",
+      "isOffDay": true,
+      "description": "Ngày thứ ba Tết Nguyên Đán"
+    },
+    {
+      "id": 5,
+      "name": "Mùng 4 Tết",
+      "date": "2026-02-01",
+      "lunarDate": "04/01",
+      "type": "official",
+      "isOffDay": true,
+      "description": "Ngày thứ tư Tết Nguyên Đán"
+    },
+    {
+      "id": 6,
+      "name": "Mùng 5 Tết",
+      "date": "2026-02-02",
+      "lunarDate": "05/01",
+      "type": "official",
+      "isOffDay": true,
+      "description": "Ngày thứ năm Tết Nguyên Đán"
+    },
+    {
+      "id": 7,
+      "name": "Giỗ Tổ Hùng Vương",
+      "date": "2026-04-18",
+      "lunarDate": "10/03",
+      "type": "official",
+      "isOffDay": true,
+      "description": "Ngày giỗ Tổ Hùng Vương - Tưởng nhớ công ơn các vua Hùng dựng nước"
+    },
+    {
+      "id": 8,
+      "name": "Ngày Giải phóng miền Nam, thống nhất đất nước",
+      "date": "2026-04-30",
+      "type": "official",
+      "isOffDay": true,
+      "description": "Ngày 30/4/1975 - Kết thúc chiến tranh, thống nhất đất nước"
+    },
+    {
+      "id": 9,
+      "name": "Ngày Quốc tế Lao động",
+      "date": "2026-05-01",
+      "type": "official",
+      "isOffDay": true,
+      "description": "Ngày 1/5 - Ngày của người lao động toàn thế giới"
+    },
+    {
+      "id": 10,
+      "name": "Quốc khánh",
+      "date": "2026-09-02",
+      "type": "official",
+      "isOffDay": true,
+      "description": "Ngày Quốc khánh Việt Nam - 2/9/1945 Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập"
+    },
+    {
+      "id": 11,
+      "name": "Tết Nguyên Tiêu",
+      "date": "2026-02-12",
+      "lunarDate": "15/01",
+      "type": "traditional",
+      "isOffDay": false,
+      "description": "Rằm tháng Giêng - Tết đầu năm Âm lịch"
+    },
+    {
+      "id": 12,
+      "name": "Tết Hàn thực",
+      "date": "2026-03-24",
+      "lunarDate": "03/03",
+      "type": "traditional",
+      "isOffDay": false,
+      "description": "Ngày giỗ Tổ của người Hoa tại Việt Nam"
+    },
+    {
+      "id": 13,
+      "name": "Ngày Quốc tế Phụ nữ",
+      "date": "2026-03-08",
+      "type": "international",
+      "isOffDay": false,
+      "description": "Ngày 8/3 - Tôn vinh phụ nữ toàn thế giới"
+    },
+    {
+      "id": 14,
+      "name": "Ngày thành lập Đoàn TNCS Hồ Chí Minh",
+      "date": "2026-03-26",
+      "type": "official",
+      "isOffDay": false,
+      "description": "Ngày 26/3/1931 - Ngày thành lập Đoàn Thanh niên Cộng sản Hồ Chí Minh"
+    },
+    {
+      "id": 15,
+      "name": "Ngày Quốc tế Thiếu nhi",
+      "date": "2026-06-01",
+      "type": "international",
+      "isOffDay": false,
+      "description": "Ngày 1/6 - Ngày của trẻ em toàn thế giới"
+    },
+    {
+      "id": 16,
+      "name": "Tết Đoan Ngọ",
+      "date": "2026-06-06",
+      "lunarDate": "05/05",
+      "type": "traditional",
+      "isOffDay": false,
+      "description": "Rằm tháng 5 Âm lịch - Tết diệt sâu bọ, tập thể dục"
+    },
+    {
+      "id": 17,
+      "name": "Ngày Thương binh - Liệt sĩ",
+      "date": "2026-07-27",
+      "type": "official",
+      "isOffDay": false,
+      "description": "Ngày 27/7 - Tưởng nhớ các anh hùng liệt sĩ, thương binh"
+    },
+    {
+      "id": 18,
+      "name": "Tết Trung thu",
+      "date": "2026-09-25",
+      "lunarDate": "15/08",
+      "type": "traditional",
+      "isOffDay": false,
+      "description": "Rằm tháng 8 Âm lịch - Tết của trẻ em, đoàn viên"
+    },
+    {
+      "id": 19,
+      "name": "Ngày Phụ nữ Việt Nam",
+      "date": "2026-10-20",
+      "type": "official",
+      "isOffDay": false,
+      "description": "Ngày 20/10 - Ngày thành lập Hội Liên hiệp Phụ nữ Việt Nam"
+    },
+    {
+      "id": 20,
+      "name": "Ngày Nhà giáo Việt Nam",
+      "date": "2026-11-20",
+      "type": "official",
+      "isOffDay": false,
+      "description": "Ngày 20/11 - Tôn vinh nghề dạy học"
+    },
+    {
+      "id": 21,
+      "name": "Tết Đông chí",
+      "date": "2026-12-22",
+      "type": "traditional",
+      "isOffDay": false,
+      "description": "Đông chí - Ngày đêm dài nhất trong năm"
+    },
+    {
+      "id": 22,
+      "name": "Ngày Tết Ông Công Ông Táo",
+      "date": "2026-01-23",
+      "lunarDate": "23/12",
+      "type": "traditional",
+      "isOffDay": false,
+      "description": "Ngày 23 tháng Chạp - Ông Táo về trời"
+    },
+    {
+      "id": 23,
+      "name": "Ngày thành lập Đảng Cộng sản Việt Nam",
+      "date": "2026-02-03",
+      "type": "official",
+      "isOffDay": false,
+      "description": "Ngày 3/2/1930 - Ngày thành lập Đảng"
+    },
+    {
+      "id": 24,
+      "name": "Ngày thành lập Hội Nông dân Việt Nam",
+      "date": "2026-10-14",
+      "type": "official",
+      "isOffDay": false,
+      "description": "Ngày 14/10/1930 - Ngày thành lập Hội Nông dân"
+    },
+    {
+      "id": 25,
+      "name": "Ngày Nhà báo Việt Nam",
+      "date": "2026-06-21",
+      "type": "official",
+      "isOffDay": false,
+      "description": "Ngày 21/6 - Ngày của người làm báo"
+    }
+  ],
+  "motivations": [
+    {
+      "id": 1,
+      "title": "Học tập không ngừng",
+      "content": "Học, học nữa, học mãi",
+      "author": "Hồ Chí Minh",
+      "category": "learning",
+      "tags": ["học tập", "kiến thức", "Bác Hồ"]
+    },
+    {
+      "id": 2,
+      "title": "Kiên trì",
+      "content": "Thành công là tổng hợp của những nỗ lực nhỏ lặp đi lặp lại mỗi ngày",
+      "author": "Robert Collier",
+      "category": "persistence",
+      "tags": ["kiên trì", "nỗ lực", "thành công"]
+    },
+    {
+      "id": 3,
+      "title": "Mục tiêu rõ ràng",
+      "content": "Đặt mục tiêu rõ ràng là bước đầu tiên để biến ước mơ thành hiện thực",
+      "author": "Tony Robbins",
+      "category": "goal",
+      "tags": ["mục tiêu", "ước mơ", "kế hoạch"]
+    },
+    {
+      "id": 4,
+      "title": "Hành động",
+      "content": "Kẻ chiến thắng không bao giờ bỏ cuộc, kẻ bỏ cuộc không bao giờ chiến thắng",
+      "author": "Vince Lombardi",
+      "category": "action",
+      "tags": ["hành động", "chiến thắng", "không bỏ cuộc"]
+    },
+    {
+      "id": 5,
+      "title": "Đọc sách",
+      "content": "Đọc sách là cách nhanh nhất để thay đổi chính mình",
+      "author": "Bill Gates",
+      "category": "learning",
+      "tags": ["đọc sách", "học hỏi", "thay đổi"]
+    },
+    {
+      "id": 6,
+      "title": "Thời gian quý giá",
+      "content": "Thời gian là thứ quý giá nhất mà chúng ta có, hãy sử dụng nó một cách khôn ngoan",
+      "author": "Unknown",
+      "category": "time",
+      "tags": ["thời gian", "quản lý", "hiệu quả"]
+    },
+    {
+      "id": 7,
+      "title": "Thất bại là bài học",
+      "content": "Tôi không thất bại, tôi chỉ tìm ra 10.000 cách không hiệu quả",
+      "author": "Thomas Edison",
+      "category": "failure",
+      "tags": ["thất bại", "học hỏi", "kinh nghiệm"]
+    },
+    {
+      "id": 8,
+      "title": "Sự khác biệt",
+      "content": "Sự khác biệt giữa người thành công và người thất bại không phải là thiếu sức mạnh hay thiếu kiến thức mà là thiếu ý chí",
+      "author": "Vince Lombardi",
+      "category": "willpower",
+      "tags": ["ý chí", "quyết tâm", "thành công"]
+    },
+    {
+      "id": 9,
+      "title": "Bắt đầu ngay",
+      "content": "Cách tốt nhất để bắt đầu là ngừng nói và bắt tay vào làm",
+      "author": "Walt Disney",
+      "category": "action",
+      "tags": ["hành động", "bắt đầu", "thực hiện"]
+    },
+    {
+      "id": 10,
+      "title": "Tự tin",
+      "content": "Tin vào bản thân là bước đầu tiên trên con đường thành công",
+      "author": "Unknown",
+      "category": "confidence",
+      "tags": ["tự tin", "tin tưởng", "bản thân"]
+    },
+    {
+      "id": 11,
+      "title": "Thay đổi",
+      "content": "Nếu bạn không thích điều gì đó, hãy thay đổi nó. Nếu bạn không thể thay đổi nó, hãy thay đổi thái độ của bạn",
+      "author": "Maya Angelou",
+      "category": "change",
+      "tags": ["thay đổi", "thái độ", "tích cực"]
+    },
+    {
+      "id": 12,
+      "title": "Cơ hội",
+      "content": "Cơ hội không đến tự nhiên, chúng ta phải tự tạo ra nó",
+      "author": "Chris Grosser",
+      "category": "opportunity",
+      "tags": ["cơ hội", "chủ động", "sáng tạo"]
+    },
+    {
+      "id": 13,
+      "title": "Sự kiên nhẫn",
+      "content": "Kiên nhẫn là đức tính của người chiến thắng",
+      "author": "Unknown",
+      "category": "patience",
+      "tags": ["kiên nhẫn", "bền bỉ", "thành công"]
+    },
+    {
+      "id": 14,
+      "title": "Học từ sai lầm",
+      "content": "Người thông minh học từ sai lầm của chính mình, người khôn ngoan học từ sai lầm của người khác",
+      "author": "Unknown",
+      "category": "learning",
+      "tags": ["học hỏi", "sai lầm", "khôn ngoan"]
+    },
+    {
+      "id": 15,
+      "title": "Đam mê",
+      "content": "Đam mê là nhiên liệu cho thành công, không có đam mê, bạn sẽ không bao giờ đạt được đỉnh cao",
+      "author": "Unknown",
+      "category": "passion",
+      "tags": ["đam mê", "động lực", "mục tiêu"]
+    },
+    {
+      "id": 16,
+      "title": "Kỷ luật",
+      "content": "Kỷ luật là cầu nối giữa mục tiêu và thành tựu",
+      "author": "Jim Rohn",
+      "category": "discipline",
+      "tags": ["kỷ luật", "mục tiêu", "thành tựu"]
+    },
+    {
+      "id": 17,
+      "title": "Hôm nay",
+      "content": "Ngày hôm qua là lịch sử, ngày mai là một bí ẩn, nhưng hôm nay là một món quà. Đó là lý do tại sao nó được gọi là hiện tại",
+      "author": "Bil Keane",
+      "category": "present",
+      "tags": ["hôm nay", "hiện tại", "trân trọng"]
+    },
+    {
+      "id": 18,
+      "title": "Sự chuẩn bị",
+      "content": "May mắn là khi cơ hội gặp được sự chuẩn bị",
+      "author": "Seneca",
+      "category": "preparation",
+      "tags": ["chuẩn bị", "cơ hội", "may mắn"]
+    },
+    {
+      "id": 19,
+      "title": "Sáng tạo",
+      "content": "Sáng tạo là trí thông minh đang vui chơi",
+      "author": "Albert Einstein",
+      "category": "creativity",
+      "tags": ["sáng tạo", "trí tuệ", "vui vẻ"]
+    },
+    {
+      "id": 20,
+      "title": "Tư duy tích cực",
+      "content": "Tư duy tích cực sẽ mang lại kết quả tích cực, tư duy tiêu cực sẽ mang lại kết quả tiêu cực",
+      "author": "Unknown",
+      "category": "positive",
+      "tags": ["tích cực", "tư duy", "kết quả"]
+    },
+    {
+      "id": 21,
+      "title": "Khởi đầu mới",
+      "content": "Mỗi ngày là một khởi đầu mới, đừng lãng phí nó",
+      "author": "Unknown",
+      "category": "beginning",
+      "tags": ["bắt đầu", "mỗi ngày", "cơ hội"]
+    },
+    {
+      "id": 22,
+      "title": "Học không ngừng",
+      "content": "Giáo dục là vũ khí mạnh mẽ nhất mà bạn có thể sử dụng để thay đổi thế giới",
+      "author": "Nelson Mandela",
+      "category": "learning",
+      "tags": ["giáo dục", "thay đổi", "thế giới"]
+    },
+    {
+      "id": 23,
+      "title": "Nỗ lực",
+      "content": "Không có thang máy nào đưa bạn đến thành công, bạn phải bước từng bậc thang",
+      "author": "Zig Ziglar",
+      "category": "effort",
+      "tags": ["nỗ lực", "từng bước", "thành công"]
+    },
+    {
+      "id": 24,
+      "title": "Dũng cảm",
+      "content": "Can đảm không phải là không sợ hãi, mà là làm điều đúng đắn dù cho bạn có sợ",
+      "author": "Unknown",
+      "category": "courage",
+      "tags": ["dũng cảm", "sợ hãi", "hành động"]
+    },
+    {
+      "id": 25,
+      "title": "Sự khác biệt",
+      "content": "Đừng cố gắng trở nên thành công, hãy cố gắng trở nên có giá trị",
+      "author": "Albert Einstein",
+      "category": "value",
+      "tags": ["giá trị", "thành công", "ý nghĩa"]
+    },
+    {
+      "id": 26,
+      "title": "Thời điểm tốt nhất",
+      "content": "Thời điểm tốt nhất để trồng một cái cây là 20 năm trước. Thời điểm tốt thứ hai là bây giờ",
+      "author": "Tục ngữ Trung Quốc",
+      "category": "action",
+      "tags": ["hành động", "bây giờ", "bắt đầu"]
+    },
+    {
+      "id": 27,
+      "title": "Giấc mơ",
+      "content": "Giấc mơ lớn hơn nỗi sợ của bạn thì cuộc sống của bạn sẽ trở nên phi thường",
+      "author": "Robin Sharma",
+      "category": "dream",
+      "tags": ["giấc mơ", "nỗi sợ", "phi thường"]
+    },
+    {
+      "id": 28,
+      "title": "Chất lượng",
+      "content": "Chất lượng không phải là một hành động, nó là một thói quen",
+      "author": "Aristotle",
+      "category": "quality",
+      "tags": ["chất lượng", "thói quen", "xuất sắc"]
+    },
+    {
+      "id": 29,
+      "title": "Niềm tin",
+      "content": "Niềm tin có thể di chuyển được núi non",
+      "author": "Tục ngữ",
+      "category": "belief",
+      "tags": ["niềm tin", "ý chí", "sức mạnh"]
+    },
+    {
+      "id": 30,
+      "title": "Khó khăn",
+      "content": "Khó khăn chuẩn bị cho con người bình thường những thành tựu phi thường",
+      "author": "C.S. Lewis",
+      "category": "difficulty",
+      "tags": ["khó khăn", "thử thách", "trưởng thành"]
+    },
+    {
+      "id": 31,
+      "title": "Sống tích cực",
+      "content": "Hạnh phúc không phải là điều gì đó có sẵn, nó đến từ chính hành động của bạn",
+      "author": "Dalai Lama",
+      "category": "happiness",
+      "tags": ["hạnh phúc", "hành động", "tích cực"]
+    },
+    {
+      "id": 32,
+      "title": "Trách nhiệm",
+      "content": "Với quyền lực lớn đi kèm với trách nhiệm lớn",
+      "author": "Unknown",
+      "category": "responsibility",
+      "tags": ["trách nhiệm", "quyền lực", "nghĩa vụ"]
+    },
+    {
+      "id": 33,
+      "title": "Thói quen tốt",
+      "content": "Chúng ta là những gì chúng ta lặp đi lặp lại. Vì vậy, sự xuất sắc không phải là một hành động mà là một thói quen",
+      "author": "Aristotle",
+      "category": "habit",
+      "tags": ["thói quen", "lặp lại", "xuất sắc"]
+    },
+    {
+      "id": 34,
+      "title": "Khác biệt",
+      "content": "Sự khác biệt duy nhất giữa một ngày tốt và một ngày tồi tệ là thái độ của bạn",
+      "author": "Dennis S. Brown",
+      "category": "attitude",
+      "tags": ["thái độ", "tích cực", "quan điểm"]
+    },
+    {
+      "id": 35,
+      "title": "Học hỏi",
+      "content": "Càng học nhiều, càng nhận ra mình biết ít. Càng nhận ra mình biết ít, càng muốn học nhiều hơn",
+      "author": "Albert Einstein",
+      "category": "learning",
+      "tags": ["học hỏi", "khiêm tốn", "tri thức"]
+    },
+    {
+      "id": 36,
+      "title": "Ý nghĩa cuộc sống",
+      "content": "Ý nghĩa cuộc sống không phải là tìm ra chính mình, mà là tạo ra chính mình",
+      "author": "George Bernard Shaw",
+      "category": "life",
+      "tags": ["cuộc sống", "ý nghĩa", "sáng tạo"]
+    }]
